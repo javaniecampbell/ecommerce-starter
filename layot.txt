@@ -1,0 +1,13 @@
+
+    Directory: C:\Users\jc601810\workspace\DDoW-Projects\ecommerce-starter
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----           7/21/2022  7:46 PM                .docker
+d----           7/21/2022  7:47 PM                .k8s
+d----            1/2/2021 11:14 AM                documentation
+d----           1/15/2022 11:43 AM                ecommerce-frontend
+d----            2/8/2021  9:33 PM                editor
+-a---           7/21/2022  7:47 PM             28 .gitignore
+-a---            7/2/2023 11:20 PM              0 layot.txt
+
